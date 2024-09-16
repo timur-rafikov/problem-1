@@ -1,4 +1,5 @@
-#include "SAYHELLO.h"
+#include "sayhello.hpp"
+#include <iostream>
 
 int main() {
 	sayHello();
