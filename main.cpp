@@ -7,6 +7,6 @@
 #include <iostream>
 
 int main() {
-	sayHello();
+	sayhello();
 	return 0;
 }
