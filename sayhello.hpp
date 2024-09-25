@@ -6,6 +6,9 @@
 #ifndef SAYHELLO
 #define SAYHELLO
 
+#include <string>
+
+void hello(std::string& s);
 void sayhello();
 
 #endif
